@@ -653,7 +653,6 @@ img {
   margin-bottom: 24px;
 }
 .modal-check-text {
-  display: flex;
   align-items: center;
   color: #8e8f99;
   font-size: 12px;
@@ -665,8 +664,6 @@ img {
   text-decoration-line: underline;
 }
 .modal-check-text span {
-}
-.modal-field-span {
   display: inline-flex;
   align-items: center;
   justify-content: center;

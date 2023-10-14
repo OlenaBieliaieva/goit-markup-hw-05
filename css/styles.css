@@ -665,6 +665,8 @@ img {
   text-decoration-line: underline;
 }
 .modal-check-text span {
+}
+.modal-field-span {
   display: inline-flex;
   align-items: center;
   justify-content: center;
